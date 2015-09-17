@@ -1,6 +1,6 @@
 # Binomial-Heap-and-Leftist-Tree
 
-implementation of Left tree and Binomial Heap 
+Implementation of Left tree and Binomial Heap 
 
 Leftist Tree :
 -Struct node lnode : contains the node structure for leftist tree .
